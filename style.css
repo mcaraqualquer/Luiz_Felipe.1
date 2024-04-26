@@ -18,7 +18,7 @@ body{
  background-color: var(--cor-de-fundo);
  color: var(--roxo);
  font-family: "Roboto", sans-serif;
- background-image: url(../IMG/Foto.png);
+ background-image: url('https://cdn.pixabay.com/photo/2023/07/30/13/04/ai-generated-8158903_1280.png');
  background-repeat: no-repeat;
  background-size: cover;
 }
